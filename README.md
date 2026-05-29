@@ -28,7 +28,7 @@ Me chamo Miguel Dias Mendes, tenho 17 anos e sou natural de São Paulo. Concluin
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+<p>
 <img 
     align="left" 
     alt="HTML"
@@ -53,4 +53,7 @@ Me chamo Miguel Dias Mendes, tenho 17 anos e sou natural de São Paulo. Concluin
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+</p><br><br>
 
+### Estatisticas 📊
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelDiasMendes&show_icons=true)
