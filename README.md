@@ -1,16 +1,24 @@
-## Hi there 👋
+👾 Miguel Dias Mendes
 
-<!--
-**MiguelDiasMendes/MiguelDiasMendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'Estudante Web Design Vocação, Futuro UI and UX'**
 
-Here are some ideas to get you started:
+Me chamo Miguel Dias Mendes, tenho 17 anos e sou natural de São Paulo. Concluindo o Ensino Médio, Formado no curso Técnico de Web Design pela instituição Vocação. Atualmente, estou cursando Programação na instituição Vocação. Sou apaixonado por tecnologia e jogos, eu compartiho toda minha jornada pessoal e profissioanl tudo no meu instagram [mdmendezs](https://www.instagram.com/mdmendezs?igsh=OGtxOGltaWY5bmZs&utm_source=qr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+    <a href="https://www.instagram.com/mdmendezs?igsh=OGtxOGltaWY5bmZs&utm_source=qr">
+        <img 
+            alt="Meu instagram" 
+            title="Instagram" 
+            src= https://custom-icon-badges.demolab.com/badge/My-Instagram-red?logo=instagram
+    </a><a href="https://www.linkedin.com/in/miguel-dias-mendes-080477323?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+        <img 
+            alt="Meu Linkedin" 
+            title="Linkedin" 
+            src= https://custom-icon-badges.demolab.com/badge/My-Linkedin-blue?logo=linkedIn
+    </a>
+    <a href="https://github.com/MiguelDiasMendes">
+        <img 
+            alt="Meu Linkedin" 
+            title="Linkedin" 
+            src= https://custom-icon-badges.demolab.com/badge/My-Github-purple?logo=github
+    </a>
