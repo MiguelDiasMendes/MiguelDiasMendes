@@ -1,4 +1,4 @@
-👾 Miguel Dias Mendes
+## 👾 Miguel Dias Mendes
 
 **'Estudante Web Design Vocação, Futuro UI and UX'**
 
@@ -10,7 +10,8 @@ Me chamo Miguel Dias Mendes, tenho 17 anos e sou natural de São Paulo. Concluin
             alt="Meu instagram" 
             title="Me siga por lá!" 
             src= https://custom-icon-badges.demolab.com/badge/My-Instagram-red?logo=instagram
-    </a><a href="https://www.linkedin.com/in/miguel-dias-mendes-080477323?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+    </a>
+     <a href="https://www.linkedin.com/in/miguel-dias-mendes-080477323?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
         <img 
             alt="Meu Linkedin" 
             title="De uma olhada!" 
@@ -22,3 +23,34 @@ Me chamo Miguel Dias Mendes, tenho 17 anos e sou natural de São Paulo. Concluin
             title="Se increve ai!" 
             src= https://custom-icon-badges.demolab.com/badge/My-Github-purple?logo=github
     </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
